@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.6f6c39f5.css",
+    "main.js": "./static/js/main.de326c41.js",
+    "static/media/book.svg": "./static/media/book.65c81d73c6c416caa0077a26ba50d692.svg",
+    "static/media/RoadRadio.ttf": "./static/media/RoadRadio.c325e3842d16dbf9f997.ttf",
+    "static/media/logo.svg": "./static/media/logo.2f92499d2971f961feef40d7311e3921.svg",
+    "static/media/slick.svg": "./static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "./static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "./static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "./static/media/slick.295183786cd8a1389865.woff",
+    "static/media/burger.svg": "./static/media/burger.d92c3cf50238e665630fb480c2cabfe1.svg",
+    "static/media/comment-icon.svg": "./static/media/comment-icon.fc00e2cbc30065a0c3ffc883d1c69820.svg",
+    "static/media/like-icon.svg": "./static/media/like-icon.cf937126b9d6ff63e5a3790ac6875751.svg",
+    "static/media/go-to-top.svg": "./static/media/go-to-top.43ed0adee8e9b55ad9848d700a6b6a25.svg",
+    "index.html": "./index.html",
+    "static/media/decor-for-headers.svg": "./static/media/decor-for-headers.1951e8da3f9ead2914ef4ff94adebd46.svg",
+    "main.6f6c39f5.css.map": "./static/css/main.6f6c39f5.css.map",
+    "main.de326c41.js.map": "./static/js/main.de326c41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f6c39f5.css",
+    "static/js/main.de326c41.js"
+  ]
+}
