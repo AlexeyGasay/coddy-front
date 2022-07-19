@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.6f6c39f5.css",
-    "main.js": "./static/js/main.b254c634.js",
+    "main.js": "./static/js/main.0cd6745f.js",
     "static/media/book.svg": "./static/media/book.65c81d73c6c416caa0077a26ba50d692.svg",
     "static/media/RoadRadio.ttf": "./static/media/RoadRadio.c325e3842d16dbf9f997.ttf",
     "static/media/logo.svg": "./static/media/logo.2f92499d2971f961feef40d7311e3921.svg",
@@ -16,10 +16,10 @@
     "index.html": "./index.html",
     "static/media/decor-for-headers.svg": "./static/media/decor-for-headers.1951e8da3f9ead2914ef4ff94adebd46.svg",
     "main.6f6c39f5.css.map": "./static/css/main.6f6c39f5.css.map",
-    "main.b254c634.js.map": "./static/js/main.b254c634.js.map"
+    "main.0cd6745f.js.map": "./static/js/main.0cd6745f.js.map"
   },
   "entrypoints": [
     "static/css/main.6f6c39f5.css",
-    "static/js/main.b254c634.js"
+    "static/js/main.0cd6745f.js"
   ]
 }
